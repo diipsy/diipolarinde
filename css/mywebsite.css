@@ -21,10 +21,10 @@ p.dip{
 section{
 	text-align:left;
 	position: static;
-	padding-top: 250px;
-    padding-left: 250px;
+    padding-left: 200px;
 	text-transform:capitalize;
 	 display:inline-block;
+	 padding-top: 180px;
 }
 section h2{
 	color: rgb(25,25,112);
@@ -59,20 +59,22 @@ a{
 	margin: 1% 5% 1% 0;
 	transition:2s ease;
 	border-radius:2px;
-	
+	padding-top: 100px;
  }
 
-.fb, .ld{
-	background-color:darkorange;
-}
-.fb, ld a:hover{
-	color:green;
-}
-.ig a:hover{
-	background:yellow;
-}
 .top{
 	display:inline-block;
 	text-align: center;
 	float:right;
+}
+
+p a:hover{
+	background-color:brown;
+	color:white;
+}
+
+.top a:hover{
+	background-color:brown;
+	color:white;
+	
 }
