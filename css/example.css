@@ -1,0 +1,7 @@
+ img{
+	height:150px;
+	display:inline-block;
+	background:inherit;
+	box-sizing: border-box;
+	box-shadow: 25px 10px 10px 10px green;
+}
