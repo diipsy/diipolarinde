@@ -1,4 +1,12 @@
- img{
+body{
+
+ background: rgb(245,222,179);
+
+}
+
+
+
+img{
 	height:150px;
 	display:inline-block;
 	background:inherit;
