@@ -1,0 +1,44 @@
+body{
+width:95%;
+margin: 0 auto;
+background:rgb(221,160,221);
+}
+
+main{
+	
+	display: block;
+	
+}
+
+nav a{
+	display: block;
+   background:blanchedalmond;
+   display:inline-block;
+    padding-right: 10px;
+	text-decoration:none;
+}
+
+header{
+	text-align:center;
+	background:rgb(240,248,255);
+	padding-top:20px;
+}
+h2{
+	text-align:center;
+	color:rgb(240,248,255);
+	}
+
+div a{
+	 text-decoration:none;
+	font-size:xx-large;
+	color:
+	
+}
+
+.dlink a:hover{
+	color:rgb(240,248,255);
+	
+}
+
+
+	
